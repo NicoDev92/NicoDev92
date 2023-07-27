@@ -1,4 +1,4 @@
-```
+```java
 public class AlejandroOlmedo {
     private Integer age = 31;
     private String country = "Argentina";
@@ -16,6 +16,7 @@ public class AlejandroOlmedo {
     );
 }
 ```
+
 ## Sobre mí
 
 - Me encantan los juegos de **lógica, RPG´s y de estrategia** ❤.
