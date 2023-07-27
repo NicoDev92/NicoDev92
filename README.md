@@ -1,3 +1,4 @@
+```
 public class AlejandroOlmedo {
     private Integer age = 31;
     private String country = "Argentina";
@@ -14,7 +15,7 @@ public class AlejandroOlmedo {
         new ProgrammingSkills("Angular", "Autodidacta", "6 meses de aprendizaje")
     );
 }
-
+```
 ## Sobre mí
 
 - Me encantan los juegos de **lógica, RPG´s y de estrategia** ❤.
