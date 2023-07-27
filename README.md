@@ -7,12 +7,13 @@ public class AlejandroOlmedo {
     private String university = "Universidad Nacional de San Juan";
     private String career = "Computer Science";
     private List<ProgrammingSkills> languages = Arrays.asList(
-        new ProgrammingSkills("Java", "Autodidacta", "2 años de aprendizaje"),
-        new ProgrammingSkills("Javascript", "Autodidacta", "2 años de aprendizaje"),
-        new ProgrammingSkills("CSS", "Autodidacta", "2 años de aprendizaje"),
-        new ProgrammingSkills("HTML", "Autodidacta", "2 años de aprendizaje"),
-        new ProgrammingSkills("Spring", "Autodidacta", "1 año de aprendizaje"),
-        new ProgrammingSkills("Angular", "Autodidacta", "6 meses de aprendizaje")
+        new ProgrammingSkills("Java", "Autodidacta, Platzy, Udemy", "2 años de aprendizaje"),
+        new ProgrammingSkills("Javascript", "Autodidacta, Platzy, Udemy", "2 años de aprendizaje"),
+        new ProgrammingSkills("MySql", "Autodidacta, Platzy, Udemy", "1 año de aprendizaje"),
+        new ProgrammingSkills("CSS", "Autodidacta, Platzy, Udemy", "2 años de aprendizaje"),
+        new ProgrammingSkills("HTML", "Autodidacta, Platzy, Udemy", "2 años de aprendizaje"),
+        new ProgrammingSkills("Spring", "Autodidacta, Platzy, Udemy", "1 año de aprendizaje"),
+        new ProgrammingSkills("Angular", "Autodidacta, Platzy, Udemy", "6 meses de aprendizaje")
     );
 }
 ```
