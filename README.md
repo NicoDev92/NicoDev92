@@ -13,7 +13,7 @@ public class AlejandroOlmedo {
         new ProgrammingSkills("CSS", "Autodidacta, Platzy, Udemy", "2 años de aprendizaje"),
         new ProgrammingSkills("HTML", "Autodidacta, Platzy, Udemy", "2 años de aprendizaje"),
         new ProgrammingSkills("Spring", "Autodidacta, Platzy, Udemy", "1 año de aprendizaje"),
-        new ProgrammingSkills("Angular", "Autodidacta, Platzy, Udemy", "6 meses de aprendizaje")
+        new ProgrammingSkills("React", "Autodidacta, Platzy, Udemy", "6 meses de aprendizaje")
     );
 }
 ```
@@ -30,8 +30,14 @@ public class AlejandroOlmedo {
 
 
 
+##Mis Proyectos:
+-https://mahoney-care-sys.netlify.app 
+    Proyecto de manejo de historias clínicas y controles de enfermería.
+-https://nicode-shop.netlify.app
+    E-comerce, estado: implementando nuevas funcionalidades...
 
-
+Todos los proyectos se encuentran desplegados encapas gratuitas de Render por lo que al estar inactivos, Render los suspende. Agradezco su paciencia
+por esperar para verlos en todo su esplendor! a lo sumo tardan de 3 a 4 minutos para desplegarse nuevamente.
 
 <!--
 **NicoDev92/NicoDev92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
