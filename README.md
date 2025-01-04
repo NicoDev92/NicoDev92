@@ -19,7 +19,7 @@ Además, disfruto constantemente de los desafíos técnicos que conlleva el desa
 - **[Sistema de Gestión Financiera](#)**: Plataforma segura y escalable para la administración de finanzas, utilizando **Spring WebFlux** y **JWT**.
 - **[API REST de Comercio Electrónico](#)**: Implementación de una API para un sistema de e-commerce con integración de métodos de pago, usando **Spring MVC** y **MySQL**.
 
-Visita mi [GitHub](https://github.com/) para explorar más de mis proyectos.
+Visita mi [GitHub](https://github.com/NicoDev92) para explorar más de mis proyectos.
 
 ---
 
@@ -33,5 +33,5 @@ Visita mi [GitHub](https://github.com/) para explorar más de mis proyectos.
 
 ### Contacto
 
-- **LinkedIn:** [Perfil Profesional](https://linkedin.com/in/alejandro-olmedo)
+- **LinkedIn:** [Perfil Profesional](https://www.linkedin.com/in/alejandroolmedo92)
 - **Email:** alenolmedo92@gmail.com
