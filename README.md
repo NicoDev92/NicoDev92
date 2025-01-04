@@ -1,57 +1,36 @@
-```java
-public class AlejandroOlmedo {
-    private Integer age = 31;
-    private String country = "Argentina";
-    private String state = "San Juan";
-    private Boolean isStuding = true;
-    private String university = "Universidad Nacional de San Juan";
-    private String career = "Computer Science";
-    private List<ProgrammingSkills> languages = Arrays.asList(
-        new ProgrammingSkills("Java", "Autodidacta, Platzy, Udemy", "2 años de aprendizaje"),
-        new ProgrammingSkills("Javascript", "Autodidacta, Platzy, Udemy", "2 años de aprendizaje"),
-        new ProgrammingSkills("MySql", "Autodidacta, Platzy, Udemy", "1 año de aprendizaje"),
-        new ProgrammingSkills("CSS", "Autodidacta, Platzy, Udemy", "2 años de aprendizaje"),
-        new ProgrammingSkills("HTML", "Autodidacta, Platzy, Udemy", "2 años de aprendizaje"),
-        new ProgrammingSkills("Spring", "Autodidacta, Platzy, Udemy", "1 año de aprendizaje"),
-        new ProgrammingSkills("React", "Autodidacta, Platzy, Udemy", "6 meses de aprendizaje")
-    );
-}
-```
+# Alejandro Olmedo
 
-## Sobre mí
+### Backend Java Developer | Spring MVC & WebFlux Specialist
 
-- Me encantan los juegos de **lógica, RPG´s y de estrategia** ❤.
-- Mi lenguaje de programación favorito es **Java**.
-- Estudié enfermería, tengo 7 años de experiencia trabajando pero **mi verdadera pasión la descubrí con la programación**.
-- Me encanta la música: mis bandas favoritas son **Nightwish y Evanescence**. pero mi gusto musical abarca muchos géneros.
-- Soy papá de un gran hijo: Tiziano de 9 años, disfruta la lectura como yo (ya heredó mis libros de **Harry Potter** y los leyó en un mes y medio a los 7!).
-- Dato curioso relacionado al ítem anterior: Ambos somos orgullosamente **Ravenclaw**.
-- Mi hobby es hacer juegos 2D en Unity. 
+Bienvenido a mi GitHub Page. Soy desarrollador backend con más de **2 años de experiencia profesional**, especializado en **Java**, **Spring MVC**, **Spring WebFlux** y tecnologías relacionadas. A lo largo de mi carrera, he desarrollado y participado en **más de 12 proyectos** que abarcan desde sistemas escalables hasta aplicaciones con arquitecturas modernas.
 
+### Sobre mí
 
+Mi enfoque está en crear soluciones sólidas y eficientes para problemas complejos. Domino herramientas y frameworks como **Spring Boot**, **JPA**, **MySQL** y **Spring Security**, siempre buscando optimizar el rendimiento y garantizar la calidad del software.
 
-##Mis Proyectos:
+Además, disfruto constantemente de los desafíos técnicos que conlleva el desarrollo backend. La experiencia de trabajar en entornos dinámicos y aprender nuevas tecnologías impulsa mi crecimiento como profesional.
 
--https://mahoney-care-sys.netlify.app 
-    Proyecto de manejo de historias clínicas y controles de enfermería.
-    
--https://nicode-shop.netlify.app
-    E-comerce, estado: implementando nuevas funcionalidades...
+---
 
-Todos los proyectos se encuentran desplegados encapas gratuitas de Render por lo que al estar inactivos, Render los suspende. Agradezco su paciencia
-por esperar para verlos en todo su esplendor! a lo sumo tardan de 3 a 4 minutos para desplegarse nuevamente.
+### Mis Proyectos Destacados
 
-<!--
-**NicoDev92/NicoDev92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[Red Social](#)**: Un sistema moderno para la conexión de usuarios, construido con **Spring Boot** y **React**, diseñado como parte de mi portafolio profesional.
+- **[Sistema de Gestión Financiera](#)**: Plataforma segura y escalable para la administración de finanzas, utilizando **Spring WebFlux** y **JWT**.
+- **[API REST de Comercio Electrónico](#)**: Implementación de una API para un sistema de e-commerce con integración de métodos de pago, usando **Spring MVC** y **MySQL**.
 
-Here are some ideas to get you started:
+Visita mi [GitHub](https://github.com/) para explorar más de mis proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Habilidades Técnicas
+
+- **Lenguajes:** Java, JavaScript, HTML.
+- **Frameworks:** Spring Boot, Spring MVC, Spring WebFlux.
+- **Bases de Datos:** MySQL, MongoDB.
+
+---
+
+### Contacto
+
+- **LinkedIn:** [Perfil Profesional](https://linkedin.com/in/alejandro-olmedo)
+- **Email:** alenolmedo92@gmail.com
