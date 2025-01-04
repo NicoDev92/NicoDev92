@@ -3,7 +3,7 @@
 
 ### Backend Java Developer | Spring MVC & WebFlux Specialist
 
-Bienvenido a mi GitHub Page. Soy desarrollador backend con más de **2 años de experiencia profesional**, especializado en **Java**, **Spring MVC**, **Spring WebFlux** y tecnologías relacionadas. A lo largo de mi carrera, he desarrollado y participado en **más de 12 proyectos** que abarcan desde sistemas escalables hasta aplicaciones con arquitecturas modernas.
+Soy desarrollador backend con más de **2 años de experiencia profesional**, especializado en **Java**, **Spring MVC**, **Spring WebFlux** y tecnologías relacionadas. A lo largo de mi carrera, he desarrollado y participado en **más de 12 proyectos** que abarcan desde sistemas escalables hasta aplicaciones con arquitecturas modernas.
 
 ### Sobre mí
 
